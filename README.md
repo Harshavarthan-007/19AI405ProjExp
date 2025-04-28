@@ -1,6 +1,6 @@
 # Implement a Sudoku Solver From Scratch
 ## NAME:HARSHAVARTHAN K P
-## REG.NO:2122242220035
+## REG.NO:212224220035
 ## AIM:
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
 
